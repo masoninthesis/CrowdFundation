@@ -7,7 +7,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="<?php echo home_url(); ?>/"><img src="http://masonlawlor.com//smartkdotit/wp-content/themes/CrowdFundation/assets/img/CrowdFundation_weblogo.png" alt="logo-nav" width="auto" height="48px" /></a>
+      <a class="navbar-brand" href="<?php echo home_url(); ?>/"><img src="http://masonlawlor.com//crowdfundationdotcom/wp-content/themes/CrowdFundation/assets/img/CrowdFundation_weblogo.png" alt="logo-nav" width="auto" height="48px" /></a>
     </div>
 
     <nav class="collapse navbar-collapse" role="navigation">
