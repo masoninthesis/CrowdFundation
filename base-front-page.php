@@ -21,8 +21,36 @@
 
   <section id="home" class="home jack-things">
     <div class="wrap container" role="document">
+		  <div class="row">
+			<div class="col-sm-4">
+				<a href="http://howdareyou.io/wp-content/uploads/2014/08/300x2502.png"><img class="pros size-full wp-image-75" src="http://howdareyou.io/wp-content/uploads/2014/08/300x250SK.png" alt="300x250" width="300" height="250" /></a>
+			</div>
+			<div class="col-sm-4">
+				<a href="http://howdareyou.io/wp-content/uploads/2014/08/300x2502.png"><img class="pros size-full wp-image-75" src="http://howdareyou.io/wp-content/uploads/2014/08/300x250SK.png" alt="300x250" width="300" height="250" /></a>
+			</div>
+			<div class="col-sm-4">
+				<a href="http://howdareyou.io/wp-content/uploads/2014/08/300x2502.png"><img class="pros size-full wp-image-75" src="http://howdareyou.io/wp-content/uploads/2014/08/300x250SK.png" alt="300x250" width="300" height="250" /></a>
+			</div>
+		</div>
+		<br><br>
+		<div class="row">
+			<div class="col-sm-4">
+				<a href="http://howdareyou.io/wp-content/uploads/2014/08/300x2502.png"><img class="pros size-full wp-image-75" src="http://howdareyou.io/wp-content/uploads/2014/08/300x250SK.png" alt="300x250" width="300" height="250" /></a>
+			</div>
+			<div class="col-sm-4">
+				<a href="http://howdareyou.io/wp-content/uploads/2014/08/300x2502.png"><img class="pros size-full wp-image-75" src="http://howdareyou.io/wp-content/uploads/2014/08/300x250SK.png" alt="300x250" width="300" height="250" /></a>
+			</div>
+			<div class="col-sm-4">
+				<a href="http://howdareyou.io/wp-content/uploads/2014/08/300x2502.png"><img class="pros size-full wp-image-75" src="http://howdareyou.io/wp-content/uploads/2014/08/300x250SK.png" alt="300x250" width="300" height="250" /></a>
+			</div>
+		</div>
+    </div><!-- /.wrap -->
+  </section>
+
+  <section id="energy" class="highlight home jack-things">
+    <div class="wrap container" role="document">
       <div class="content row">
-        <div class="col-sm-6"> 
+        <div class="col-sm-4"> <!-- Consulting -->
           <h2><img class="security-icon" src="http://masonlawlor.com/smartkit/assets/images/security.png" /> Consulting</h2>
 		    <ul class="big-list">
 	          <li><img class="icons" src="http://masonlawlor.com/smartkit/assets/images/1-design.png"/> Marketing</li>
@@ -32,20 +60,8 @@
 	        </ul>
           <div class="alert alert-t4tg">Starting at <span class="price-security">$999</span></div>
           <button class="btn btn-default btn-lg security-btn">Learn More <i class="fa fa-chevron-right"></i></button>
-        </div>
-        <div class="col-sm-6">
-          <center>
-          <img class="art img-responsive" src="http://masonlawlor.com/smartkit/assets/images/graphics/security.png" />
-          </center>
-        </div>
-      </div><!-- /.content -->
-    </div><!-- /.wrap -->
-  </section>
-
-  <section id="energy" class="highlight home jack-things">
-    <div class="wrap container" role="document">
-      <div class="content row">
-        <div class="col-sm-6">
+        </div><!-- /Consulting -->
+        <div class="col-sm-4"> <!-- Design -->
           <h2><img class="energy-icon" src="http://masonlawlor.com/smartkit/assets/images/energy.png" /> Design</h2>
           <ul class="big-list">
 	          <li><img class="icons" src="http://masonlawlor.com/smartkit/assets/images/1-design.png"/> Product Design</li>
@@ -55,46 +71,28 @@
 	        </ul>
           <div class="alert alert-t4tg">Starting at <span class="price-energy">$4999</span></div>
           <button class="btn btn-default btn-lg energy-btn">Learn More <i class="fa fa-chevron-right"></i></button>
-        </div>
-        <div class="col-sm-6">
-          <center>
-          <img class="art img-responsive" src="http://masonlawlor.com/smartkit/assets/images/graphics/energy.png" />
-          </center>
-        </div>
-      </div><!-- /.content -->
-    </div><!-- /.wrap -->
-  </section>
-
-  <section id="auto" class="home jack-things">
-    <div class="wrap container" role="document">
-      <div class="content row">
-        <div class="col-sm-6">
+        </div><!-- /Design -->
+        <div class="col-sm-4"> <!-- Marketing -->
           <h2><img class="auto-icon" src="http://masonlawlor.com/smartkit/assets/images/automation.png" /> Marketing</h2>
           <ul class="big-list">
 	          <li><img class="icons" src="http://masonlawlor.com/smartkit/assets/images/1-design.png"/> Promotion</li>
-	          <li><img class="icons" src="http://masonlawlor.com/smartkit/assets/images/3-conversions.png"/> Public Relations</li>
+	          <li><img class="icons" src="http://masonlawlor.com/smartkit/assets/images/3-conversions.png"/> Press & PR</li>
 	          <li><img class="icons" src="http://masonlawlor.com/smartkit/assets/images/4-templates.png"/> Advertising</li>
 	        </ul>
           <div class="alert alert-t4tg">Starting at <span class="price-auto">$4999</span></div>
           <button class="btn btn-default btn-lg auto-btn">Learn More <i class="fa fa-chevron-right"></i></button>
-        </div>
-        <div class="col-sm-6">
-          <center>
-          <img class="art img-responsive" src="http://masonlawlor.com/smartkit/assets/images/graphics/auto.png" />
-          </center>
-        </div>
+        </div><!-- /Marketing -->
       </div><!-- /.content -->
     </div><!-- /.wrap -->
   </section>
-  
 <hr>
   
   <section id="bottom-cta" class="home">
     <div class="wrap container" role="document">
       <div class="content row">
         <div class="col-sm-12">
-	          <h1>Need funding? Apply below.</h1>
-          <h3>If selected <span class="smart-home">Crowd Fundation</span> will spot you!</h3>
+	          <h1 class="footer-h1">Need funding? Apply below.</h1>
+          <h3 class="footer-h3">If selected <span class="smart-home">Crowd Fundation</span> will spot you!</h3>
           <center><button type="button" class="btn btn-default security-btn">Apply Now</button></center>
           <center><a href="" data-toggle="modal" data-target="#myModal">How to improve your chances of getting picked.</a></center>
           
