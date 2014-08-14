@@ -23,25 +23,25 @@
     <div class="wrap container" role="document">
 		  <div class="row">
 			<div class="col-sm-4">
-				<a href="http://howdareyou.io/wp-content/uploads/2014/08/300x2502.png"><img class="pros size-full wp-image-75" src="http://howdareyou.io/wp-content/uploads/2014/08/300x250SK.png" alt="300x250" width="300" height="250" /></a>
+				<a href="http://howdareyou.io/wp-content/uploads/2014/08/300x2502.png"><img class="pros img-responsive" src="http://masonlawlor.com//crowdfundationdotcom/wp-content/themes/CrowdFundation/assets/img/Pete.png" alt="300x250" width="360" height="250" /></a>
 			</div>
 			<div class="col-sm-4">
-				<a href="http://howdareyou.io/wp-content/uploads/2014/08/300x2502.png"><img class="pros size-full wp-image-75" src="http://howdareyou.io/wp-content/uploads/2014/08/300x250SK.png" alt="300x250" width="300" height="250" /></a>
+				<a href="http://howdareyou.io/wp-content/uploads/2014/08/300x2502.png"><img class="pros img-responsive" src="http://masonlawlor.com//crowdfundationdotcom/wp-content/themes/CrowdFundation/assets/img/Dale.png" alt="300x250" width="360" height="250" /></a>
 			</div>
 			<div class="col-sm-4">
-				<a href="http://howdareyou.io/wp-content/uploads/2014/08/300x2502.png"><img class="pros size-full wp-image-75" src="http://howdareyou.io/wp-content/uploads/2014/08/300x250SK.png" alt="300x250" width="300" height="250" /></a>
+				<a href="http://howdareyou.io/wp-content/uploads/2014/08/300x2502.png"><img class="pros img-responsive" src="http://masonlawlor.com//crowdfundationdotcom/wp-content/themes/CrowdFundation/assets/img/Eskil.png" alt="300x250" width="360" height="250" /></a>
 			</div>
 		</div>
 		<br><br>
 		<div class="row">
 			<div class="col-sm-4">
-				<a href="http://howdareyou.io/wp-content/uploads/2014/08/300x2502.png"><img class="pros size-full wp-image-75" src="http://howdareyou.io/wp-content/uploads/2014/08/300x250SK.png" alt="300x250" width="300" height="250" /></a>
+				<a href="http://howdareyou.io/wp-content/uploads/2014/08/300x2502.png"><img class="pros img-responsive" src="http://masonlawlor.com//crowdfundationdotcom/wp-content/themes/CrowdFundation/assets/img/Jordan.png" alt="300x250" width="360" height="250" /></a>
 			</div>
 			<div class="col-sm-4">
-				<a href="http://howdareyou.io/wp-content/uploads/2014/08/300x2502.png"><img class="pros size-full wp-image-75" src="http://howdareyou.io/wp-content/uploads/2014/08/300x250SK.png" alt="300x250" width="300" height="250" /></a>
+				<a href="http://howdareyou.io/wp-content/uploads/2014/08/300x2502.png"><img class="pros img-responsive" src="http://masonlawlor.com//crowdfundationdotcom/wp-content/themes/CrowdFundation/assets/img/Mike.png" alt="300x250" width="360" height="250" /></a>
 			</div>
 			<div class="col-sm-4">
-				<a href="http://howdareyou.io/wp-content/uploads/2014/08/300x2502.png"><img class="pros size-full wp-image-75" src="http://howdareyou.io/wp-content/uploads/2014/08/300x250SK.png" alt="300x250" width="300" height="250" /></a>
+				<a href="http://howdareyou.io/wp-content/uploads/2014/08/300x2502.png"><img class="pros img-responsive" src="http://masonlawlor.com//crowdfundationdotcom/wp-content/themes/CrowdFundation/assets/img/Gary.png" alt="300x250" width="360" height="250" /></a>
 			</div>
 		</div>
     </div><!-- /.wrap -->
@@ -76,7 +76,8 @@
           <h2><img class="auto-icon" src="http://masonlawlor.com/smartkit/assets/images/automation.png" /> Marketing</h2>
           <ul class="big-list">
 	          <li><img class="icons" src="http://masonlawlor.com/smartkit/assets/images/1-design.png"/> Promotion</li>
-	          <li><img class="icons" src="http://masonlawlor.com/smartkit/assets/images/3-conversions.png"/> Press & PR</li>
+	          <li><img class="icons" src="http://masonlawlor.com/smartkit/assets/images/3-conversions.png"/> Press</li>
+	          <li><img class="icons" src="http://masonlawlor.com/smartkit/assets/images/3-conversions.png"/> PR</li>
 	          <li><img class="icons" src="http://masonlawlor.com/smartkit/assets/images/4-templates.png"/> Advertising</li>
 	        </ul>
           <div class="alert alert-t4tg">Starting at <span class="price-auto">$4999</span></div>
@@ -85,7 +86,6 @@
       </div><!-- /.content -->
     </div><!-- /.wrap -->
   </section>
-<hr>
   
   <section id="bottom-cta" class="home">
     <div class="wrap container" role="document">
@@ -135,7 +135,7 @@
         setTimeout(function() {
           showPopup();
           jQuery.cookie('foreverjobless', '1', { expires: 7 });
-        }, 60);
+        }, 4000);
       }
     }
 
@@ -149,24 +149,27 @@
    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
+          <!--<button type="button" class="close" style="margin-right: 10px;margin-top: 5px;" data-dismiss="modal" aria-hidden="true">&times;</button>-->
           <div class="modal-body">
+    			
     			<div class="col-sm-10 col-sm-offset-1 modal-video"><!-- Video -->
 				 	<div class="row"> 
 					 	<center>
-					 		<iframe onClick="ga('send', 'event', 'video', 'play', 'main video');" src="//fast.wistia.net/embed/iframe/5tl43fy1m9?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="668" height="376"></iframe>
+					 		<iframe src="//fast.wistia.net/embed/iframe/6y2igsba97?videoFoam=true" allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" allowfullscreen mozallowfullscreen webkitallowfullscreen oallowfullscreen msallowfullscreen width="640" height="360"></iframe><script src="//fast.wistia.net/assets/external/iframe-api-v1.js"></script>
 					 		<script src='//fast.wistia.com/static/iframe-api-v1.js'></script>
 					 	</center>
 					</div>
 				</div> <!-- /Video -->
     		</div>
-        <h4 class="optin-h4">Subscribe below and I'll dare you to be great.</h4><!-- optin -->
+    	<br>	
+        <h4 class="optin-h4">Learn how to crowdfund from the pros.</h4><!-- optin -->
 	  <div class="row">
 	      <div class="top-optin col-sm-offset-3">
 	      
 	      <!-- Mailchimp -->
-			<form class="form-inline" id="before_header" action="//howdareyou.us8.list-manage.com/subscribe/post?u=4c05f20503bc3a9d84d1a63c9&amp;id=488afa7633" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+			<form class="form-inline" id="before_header" action="//crowdfundation.us8.list-manage.com/subscribe/post?u=b5ab0ee8523c581e9a88b3e27&amp;id=14d13d7b64" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 				<input type="email" value="" name="EMAIL" class="form-control email" id="mce-EMAIL" placeholder="Email address.." required>
-			<button id="header-optin-click" name="submit" onClick="ga('send', 'event', 'optin', 'subscribe', 'header optin');" class="submit btn btn-primary btn-lg" type="submit" value="Submit" tabindex="501">I Dare</button>
+			<button id="header-optin-click" name="submit" onClick="ga('send', 'event', 'optin', 'subscribe', 'header optin');" class="submit btn btn-primary btn-lg" type="submit" value="Submit" tabindex="501">Subscribe</button>
 			
 			</form> <!-- /Mailchimp -->
 	      </div><!-- /optin -->
