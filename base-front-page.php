@@ -135,7 +135,7 @@
         setTimeout(function() {
           showPopup();
           jQuery.cookie('foreverjobless', '1', { expires: 7 });
-        }, 4000);
+        }, 240000);
       }
     }
 
