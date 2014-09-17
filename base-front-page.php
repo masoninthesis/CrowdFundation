@@ -46,46 +46,6 @@
 		</div>
     </div><!-- /.wrap -->
   </section>
-
-  <section id="energy" class="highlight home jack-things">
-    <div class="wrap container" role="document">
-      <div class="content row">
-        <div class="col-sm-4"> <!-- Consulting -->
-          <h2><img class="security-icon" src="http://masonlawlor.com/smartkit/assets/images/security.png" /> Consulting</h2>
-		    <ul class="big-list">
-	          <li><img class="icons" src="http://masonlawlor.com/smartkit/assets/images/1-design.png"/> Marketing</li>
-	          <li><img class="icons" src="http://masonlawlor.com/smartkit/assets/images/2-dev.png"/> Branding</li>
-	          <li><img class="icons" src="http://masonlawlor.com/smartkit/assets/images/3-conversions.png"/> Strategy</li>
-	          <li><img class="icons" src="http://masonlawlor.com/smartkit/assets/images/4-templates.png"/> Advertising</li>
-	        </ul>
-          <div class="alert alert-t4tg">Starting at <span class="price-security">$999</span></div>
-          <button class="btn btn-default btn-lg security-btn">Learn More <i class="fa fa-chevron-right"></i></button>
-        </div><!-- /Consulting -->
-        <div class="col-sm-4"> <!-- Design -->
-          <h2><img class="energy-icon" src="http://masonlawlor.com/smartkit/assets/images/energy.png" /> Design</h2>
-          <ul class="big-list">
-	          <li><img class="icons" src="http://masonlawlor.com/smartkit/assets/images/1-design.png"/> Product Design</li>
-	          <li><img class="icons" src="http://masonlawlor.com/smartkit/assets/images/2-dev.png"/> Video Production</li>
-	          <li><img class="icons" src="http://masonlawlor.com/smartkit/assets/images/3-conversions.png"/> Web Design</li>
-	          <li><img class="icons" src="http://masonlawlor.com/smartkit/assets/images/4-templates.png"/> Web Development</li>
-	        </ul>
-          <div class="alert alert-t4tg">Starting at <span class="price-energy">$4999</span></div>
-          <button class="btn btn-default btn-lg energy-btn">Learn More <i class="fa fa-chevron-right"></i></button>
-        </div><!-- /Design -->
-        <div class="col-sm-4"> <!-- Marketing -->
-          <h2><img class="auto-icon" src="http://masonlawlor.com/smartkit/assets/images/automation.png" /> Marketing</h2>
-          <ul class="big-list">
-	          <li><img class="icons" src="http://masonlawlor.com/smartkit/assets/images/1-design.png"/> Promotion</li>
-	          <li><img class="icons" src="http://masonlawlor.com/smartkit/assets/images/3-conversions.png"/> Press</li>
-	          <li><img class="icons" src="http://masonlawlor.com/smartkit/assets/images/3-conversions.png"/> PR</li>
-	          <li><img class="icons" src="http://masonlawlor.com/smartkit/assets/images/4-templates.png"/> Advertising</li>
-	        </ul>
-          <div class="alert alert-t4tg">Starting at <span class="price-auto">$4999</span></div>
-          <button class="btn btn-default btn-lg auto-btn">Learn More <i class="fa fa-chevron-right"></i></button>
-        </div><!-- /Marketing -->
-      </div><!-- /.content -->
-    </div><!-- /.wrap -->
-  </section>
   
   <section id="bottom-cta" class="home">
     <div class="wrap container" role="document">
